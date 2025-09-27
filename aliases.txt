@@ -1,0 +1,5 @@
+Aliasuri comenzi pentru proiect
+===============================
+alias logout='source .logout.sh'
+alias raport='nano .raport.txt'
+alias testare_proiect='source manager.sh'
